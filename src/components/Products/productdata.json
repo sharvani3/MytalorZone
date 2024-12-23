@@ -1,181 +1,319 @@
 
     [{
         "key": 1,
-        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "title": "Women’s Western Top",
         "price": 89.95,
-        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-        "category": "Men's clothing",
-        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "description": "An opulent black silk shirt with a luxurious, buttery-smooth texture paired with a zebra-pattern skirt crafted from premium, ultra-soft fabric for unmatched comfort and style.",
+        "category": "Westren wear",
+        "image": "https://i.pinimg.com/736x/5b/34/57/5b3457f10f3b4b28bef89401b2c6d2eb.jpg",
         "rating": { "rate": 3.9, "count": 120 }
     },
     {
         "key": 2,
-        "title": "Mens Casual Premium Slim Fit T-Shirts ",
+        "title": "Contemporary Indian",
         "price": 22.3,
-        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-        "category": "Men's clothing",
-        "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "description": "A stunning cold-shoulder top crafted from silky, breathable fabric that drapes like a dream, paired with vibrant, multi-colored palazzos boasting a flowy, feather-light feel and a kaleidoscope of hues that exude elegance and flair.",
+        "category": "Westren wear",
+        "image": "https://i.pinimg.com/736x/be/76/8d/be768d1af6308b9ed26a1b00ce20dd3f.jpg",
         "rating": { "rate": 4.1, "count": 259 }
     },
     {
         "key": 3,
-        "title": "Mens Cotton Jacket",
+        "title": "Multi Color Heavy Crepe Printed Leaf Broad V Coat Pant Set",
         "price": 55.99,
-        "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
-        "category": "Men's clothing",
-        "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "description": "A pair of edgy green denim bell bottoms, designed with premium stretch fabric for a flawless fit, paired with a delicate floral crop top radiating charm, and topped with a tailored jacket that blends sophistication and trend effortlessly.",
+        "category": "Westren wear",
+        "image": "https://i.pinimg.com/736x/26/99/fc/2699fcfa36b2b9b9c6266579768c3c5e.jpg",
         "rating": { "rate": 4.7, "count": 500 }
     },
     {
         "key": 4,
-        "title": "Mens Casual Slim Fit",
+        "title": "A Blue frock",
         "price": 15.99,
-        "description": "The color could be slightly different between on the screen and in practice.",
-        "category": "Men's clothing",
-        "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "description": "A mesmerizing blue frock crafted from luxurious, soft fabric with an elegant flow and enchanting design that promises to make you feel like a fairytale vision.",
+        "category": "Westren wear",
+        "image": "https://i.pinimg.com/736x/a3/d4/49/a3d449760296430224f719afb5c0baf0.jpg",
         "rating": { "rate": 2.1, "count": 430 }
     },
     {
         "key": 5,
-        "title": "Gold & Silver Dragon Station Chain Bracelet",
-        "price": 695,
-        "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-        "category": "Jewelery",
-        "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
-        "rating": { "rate": 4.6, "count": 400 }
+        "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+        "price": 12.99,
+        "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+        "category": "Westren wear",
+        "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "rating": { "rate": 3.6, "count": 145 }
     },
     {
         "key": 6,
-        "title": "solid Gold Petite Micropave ",
-        "price": 168,
-        "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-        "category": "Jewelery",
-        "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
-        "rating": { "rate": 3.9, "count": 70 }
+        "title": "Winter classic",
+        "price": 695,
+        "description": "A classic pair of perfectly-fitted jeans paired with a chic top, layered with a luxurious woolen coat that wraps you in unparalleled warmth and timeless elegance.",
+        "category": "Westren wear",
+        "image": "https://i.pinimg.com/736x/96/9b/2d/969b2d4bc50f04b35e030fd73d04411b.jpg",
+        "rating": { "rate": 4.6, "count": 400 }
     },
     {
         "key": 7,
-        "title": "White Gold Plated Princess",
-        "price": 9.99,
-        "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
-        "category": "Jewelery",
-        "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
-        "rating": { "rate": 3, "count": 400 }
+        "title": "Green jacket",
+        "price": 168,
+        "description": "A sleek pista green jacket, crafted with premium fabric for a refined look, paired with classic denim jeans and a crisp white tee to create a stylish blend of casual sophistication and effortless charm.",
+        "category": "Westren wear",
+        "image": "https://i.pinimg.com/736x/16/ea/74/16ea749e15cfa9236abf61218618bb3c.jpg",
+        "rating": { "rate": 3.9, "count": 70 }
     },
     {
         "key": 8,
-        "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
-        "price": 10.99,
-        "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
-        "category": "Jewelery",
-        "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
-        "rating": { "rate": 1.9, "count": 100 }
+        "title": "Classic white and blue",
+        "price": 9.99,
+        "description": "A timeless white shirt tailored to perfection for a flattering fit and paired with classic blue jeans that offer unmatched comfort and effortless elegance.creating a chic and versatile look for any occasion." ,
+        "category": "Westren wear",
+        "image": "https://i.pinimg.com/736x/c1/1c/e9/c11ce9f66d334aaa5f9febe3a097c195.jpg",
+        "rating": { "rate": 3, "count": 400 }
     },
     {
         "key": 9,
-        "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
-        "price": 64,
-        "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on users hardware configuration and operating system",
-        "category": "Electronics",
-        "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
-        "rating": { "rate": 3.3, "count": 203 }
+        "title": "Orange Shirt",
+        "price": 10.99,
+        "description": "A vibrant orange short shirt crafted from premium, breathable fabric, radiating bold energy and effortless charm with its sleek design and perfect fit.",
+        "category": "Westren wear",
+        "image": "https://i.pinimg.com/736x/0a/ee/f2/0aeef2b559f9894ce500b6bed7ae619e.jpg",
+        "rating": { "rate": 1.9, "count": 100 }
     },
     {
         "key": 10,
-        "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
-        "price": 109,
-        "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
-        "category": "Electronics",
-        "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
-        "rating": { "rate": 2.9, "count": 470 }
+        "title": "Vintage vibes ",
+        "price": 64,
+        "description": "A dreamy pink vintage frock adorned with delicate details, crafted from luxuriously soft fabric, exuding timeless elegance and romantic charm—perfect for making a statement on your special date.",
+        "category": "Westren wear",
+        "image": "https://i.pinimg.com/736x/35/3a/84/353a84ee23d795de13dbd4d36c576e88.jpg",
+        "rating": { "rate": 3.3, "count": 203 }
     },
     {
         "key": 11,
-        "title": "Silicon Power 256GB SSD 3D NAND A55 SLC ",
+        "title": "Cozy coat",
         "price": 109,
-        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAId, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-        "category": "Electronics",
-        "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
-        "rating": { "rate": 4.8, "count": 319 }
+        "description": "A classic winter garment designed to keep you warm during cold weather. It’s typically made from wool, which is known for its insulating properties",
+        "category": "Winter Collection",
+        "image": "https://i.pinimg.com/736x/7a/57/fa/7a57fa926d60e9c98c8251d5a35e629e.jpg",
+        "rating": { "rate": 2.9, "count": 470 }
     },
     {
         "key": 12,
-        "title": "WD 4TB Gaming Drive Portable External Hard Drive",
-        "price": 114,
-        "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
-        "category": "Electronics",
-        "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
-        "rating": { "rate": 4.8, "count": 400 }
+        "title": "Alana Designs ",
+        "price": 109,
+        "description": "A Korean woolen jacket combines warmth and style, crafted from high-quality wool for a cozy, luxurious feel. Its sleek design and minimalist details make it perfect for both casual and semi-formal occasions.",
+        "category": "Winter Collection",
+        "image": "https://i.pinimg.com/736x/f4/c2/46/f4c246000f41d8215ff00b0a7070419f.jpg",
+        "rating": { "rate": 4.8, "count": 319 }
     },
     {
         "key": 13,
-        "title": "Acer SB220Q bi 21.5 inches Full HD",
-        "price": 599,
-        "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
-        "category": "Electronics",
-        "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
-        "rating": { "rate": 2.9, "count": 250 }
+        "title": "Red Bows Cardigan",
+        "price": 114,
+        "description": "This white crochet top with red bows offers a charming, feminine touch with its intricate crochet detailing and playful red bow accents. The perfect balance of elegance and whimsy, ideal for casual outings or summer parties.",
+        "category": "Winter Collection",
+        "image": "https://i.pinimg.com/736x/44/e2/2e/44e22e9832f34d168a4a93cfa698ac11.jpg",
+        "rating": { "rate": 4.8, "count": 400 }
     },
     {
         "key": 14,
-        "title": "Samsung 49-Inch CHG90 144Hz  Gaming Monitor",
-        "price": 799,
-        "description": "49 INCH SUPECurvedR ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH rate and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
-        "category": "Electronics",
-        "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
-        "rating": { "rate": 2.2, "count": 140 }
+        "title": "Crochet gloves",
+        "price": 599,
+        "description": "These brown and cream crochet woolen gloves combine warmth and style, offering a cozy fit with intricate crochet patterns. Perfect for chilly winter days, they provide both comfort and a touch of elegance.",
+        "category": "Winter Collection",
+        "image": "https://i.pinimg.com/736x/68/74/a8/6874a82507644f52363dd517ed1e0a93.jpg",
+        "rating": { "rate": 2.9, "count": 250 }
     },
     {
         "key": 15,
+        "title": "Winter Parties",
+        "price": 799,
+        "description": "This luxurious woolen frock for winter parties is a statement of elegance and warmth, crafted from the finest, softest wool to keep you snug and stylish. Adorned with exquisite detailing and a flattering fit, it promises to turn heads at any celebration, offering the perfect blend of glamour and comfort.",
+        "category": "Winter Collection",
+        "image": "https://i.pinimg.com/736x/8d/c5/ee/8dc5ee7e4b74e2cf69a10741d9a31133.jpg",
+        "rating": { "rate": 2.2, "count": 140 }
+    },
+    {
+        "key": 16,
         "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
         "price": 56.99,
         "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
-        "category": "Women's clothing",
+        "category": "Winter Collection",
         "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
         "rating": { "rate": 2.6, "count": 235 }
     },
     {
-        "key": 16,
+        "key": 17,
         "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
         "price": 29.95,
         "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
-        "category": "Women's clothing",
+        "category": "Winter Collection",
         "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
         "rating": { "rate": 2.9, "count": 340 }
     },
     {
-        "key": 17,
+        "key": 18,
         "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
         "price": 39.99,
         "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
-        "category": "Women's clothing",
+        "category": "Winter Collection",
         "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
         "rating": { "rate": 3.8, "count": 679 }
     },
     {
-        "key": 18,
-        "title": "MBJ Women's solid Short Sleeve Boat Neck V ",
+        "key": 19,
+        "title": "Melani sabhaney Collection",
         "price": 9.85,
-        "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
-        "category": "Women's clothing",
-        "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "description": "This red and white ethnic wear kurthi set exudes timeless charm with its vibrant color combination and intricate design. Crafted from premium fabric, it features delicate embroidery that adds an elegant touch, making it the perfect choice for festive occasions or family gatherings.",
+        "category": "Ethnic Wear",
+        "image": "https://i.pinimg.com/736x/84/c2/0e/84c20e32cfced520ac22e6cdd7cade31.jpg",
         "rating": { "rate": 4.7, "count": 130 }
     },
     {
-        "key": 19,
-        "title": "Opna Women's Short Sleeve Moisture",
+        "key": 20,
+        "title": "Mint green designer suit",
         "price": 7.95,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "Women's clothing",
-        "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "description": "This designer suit in mint green radiates elegance and sophistication with its intricate embroidery and luxurious fabric. Perfectly tailored for a flawless fit, it combines contemporary style with classic charm, making it an ideal choice for upscale events and special occasions.",
+        "category": "Ethnic Wear",
+        "image": "https://i.pinimg.com/736x/44/cf/1a/44cf1adf766ef6352cf0f92d690a2117.jpg",
         "rating": { "rate": 4.5, "count": 146 }
     },
     {
-        "key": 20,
-        "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+        "key": 21,
+        "title": "Pearl white designer cord set",
         "price": 12.99,
-        "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
-        "category": "Women's clothing",
-        "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "description": "This pearl white designer cord set exudes timeless elegance with its refined texture and sophisticated tailoring. Perfectly crafted, it offers a seamless blend of luxury and comfort, making it a standout choice for both formal and semi-formal occasions.",
+        "category": "Ethnic Wear",
+        "image": "https://i.pinimg.com/736x/62/1b/5e/621b5e8139b167ae60d85fada7973663.jpg",
+        "rating": { "rate": 3.6, "count": 145 }
+    },
+    {
+        "key": 22,
+        "title": "Perfect Haldi wali lehanga",
+        "price": 12.99,
+        "description": "This vibrant sun-shaded yellow lehenga is the perfect pick for a Haldi party, radiating joy and celebration. Adorned with intricate embroidery and delicate details, it embodies the spirit of festivity while ensuring a striking, yet graceful look for your special day.",
+        "category": "Ethnic Wear",
+        "image": "https://i.pinimg.com/736x/ee/f5/75/eef5755978f9bac0ce38ec8dbf49f855.jpg",
+        "rating": { "rate": 3.6, "count": 145 }
+    },
+    {
+        "key": 23,
+        "title": "Rajasthani designer lehanga with mirror work",
+        "price": 12.99,
+        "description": "This exquisite Rajasthani designer lehenga, adorned with intricate mirror work, captures the essence of tradition and vibrancy. Perfect for Garba and Dandiya nights, it adds a dazzling touch of elegance and movement, making you the center of attention during the festivities.",
+        "category": "Ethnic Wear",
+        "image": "https://i.pinimg.com/736x/a5/b4/aa/a5b4aa59d0184dbc780f99ed8644ed17.jpg",
+        "rating": { "rate": 3.6, "count": 145 }
+    },  {
+        "key": 24,
+        "title": "Dreamy pink saree",
+        "price": 12.99,
+        "description": "This stunning pink organza saree is the epitome of elegance and grace, perfect for any function or special occasion. The delicate fabric, combined with its soft sheen and flowing drape, creates a sophisticated look that will make you stand out with timeless beauty.",
+        "category": "Ethnic Wear",
+        "image": "https://i.pinimg.com/736x/be/e4/5b/bee45b4ab02bedb8e673afebe84c7495.jpg",
+        "rating": { "rate": 3.6, "count": 145 }
+    },  {
+        "key": 25,
+        "title": "Wedding ready outfit",
+        "price": 12.99,
+        "description": "This exquisite wedding-ready saree combines traditional charm with contemporary elegance, crafted from luxurious fabric that drapes beautifully. Adorned with intricate embroidery and rich embellishments, it promises to make you the center of attention on your special day.",
+        "category": "Ethnic Wear",
+        "image": "https://i.pinimg.com/736x/22/79/50/227950265e48fccfa96e5d82eacd8c83.jpg",
+        "rating": { "rate": 3.6, "count": 145 }
+    },  {
+        "key": 26,
+        "title": "'Janaki' Maroon Pure Katan Silk Real Zari Banarasi Handloom Saree",
+        "price": 12.99,
+        "description": "The 'Janaki' Maroon Pure Katan Silk Real Zari Banarasi Handloom Saree exudes regal elegance, crafted with the finest Katan silk and intricate real zari work. Its rich maroon hue, paired with the luxurious handloom Banarasi craftsmanship, makes it a timeless masterpiece perfect for grand occasions and weddings.",
+        "category": "Ethnic Wear",
+        "image": "https://i.pinimg.com/736x/11/de/54/11de5431b30d7a94fab18d7258dfe020.jpg",
+        "rating": { "rate": 3.6, "count": 145 }
+    },  {
+        "key": 27,
+        "title": "The finest collection of kanjeevaram silk sarees by Kalpavruksh!",
+        "price": 12.99,
+        "description":"Discover the finest collection of Kanjivaram silk sarees by Kalpavruksh! Each saree is a masterpiece, intricately woven with pure silk and adorned with rich zari work. Designed to bring out the grandeur of traditional Indian craftsmanship, these sarees are perfect for weddings, festivals, and special occasions. With a variety of stunning colors, patterns, and motifs, Kalpavruksh's Kanjivaram collection offers timeless elegance and unmatched beauty.",
+        "category": "Ethnic Wear",
+        "image": "https://i.pinimg.com/736x/10/1a/c8/101ac8e6a5761ff968591bfcfa27ee1e.jpg",
+        "rating": { "rate": 3.6, "count": 145 }
+    },  {
+        "key": 28,
+        "title": " Sahiba's patola Sarees",
+        "price": 12.99,
+        "description": "Explore the exquisite collection of Patan Patola sarees by Sahiba! Known for their intricate double-ikat weaving technique, these sarees are a symbol of luxury and craftsmanship. Each piece is a vibrant masterpiece, rich in tradition and culture, with mesmerizing patterns and bold colors. Perfect for weddings and special occasions, Sahiba's Patola sarees promise to add an unparalleled touch of elegance and sophistication to your wardrobe",
+        "category": "Ethnic Wear",
+        "image": "https://i.pinimg.com/736x/18/d5/51/18d5513877fa3564ac1eeb63f2fb0d00.jpg",
+        "rating": { "rate": 3.6, "count": 145 }
+    },  {
+        "key": 29,
+        "title": "Sahiba Exclusive Black suit",
+        "price": 12.99,
+        "description":"Step into a world of timeless elegance with this black designer lehenga, crafted with intricate detailing that showcases impeccable artistry. The rich fabric is adorned with stunning embellishments, delicate embroidery, and graceful patterns, making it a perfect choice for grand celebrations and festive occasions. With its luxurious design and meticulous craftsmanship, this lehenga promises to make you the center of attention, exuding sophistication and charm.",
+        "category": "Sahiba Exclusives",
+        "image": "https://i.pinimg.com/736x/5d/d6/a3/5dd6a3ec6299a3e6a2a4b684906c56b4.jpg",
+        "rating": { "rate": 3.6, "count": 145 }
+    },
+    {
+        "key": 30,
+        "title": "Finest art of mirrors",
+        "price": 12.99,
+        "description": "Embrace the perfect blend of tradition and contemporary style with this mirror and sand blue lehenga. The intricate mirror work on the fabric creates a stunning play of light, while the soft blue hue adds a touch of elegance and serenity. Perfect for weddings or festive occasions, this lehenga is designed to make you shine with its sparkling details and graceful silhouette, ensuring you stand out at every celebration.",
+        "category": "Sahiba Exclusives",
+        "image": "https://i.pinimg.com/736x/53/72/59/53725936d860dc7bfd8627a357299950.jpg",
+        "rating": { "rate": 3.6, "count": 145 }
+    },
+    {
+        "key": 31,
+        "title": "Lavender Pearl Embellished Lehenga with Off-Shoulder Draped Cape",
+        "price": 12.99,
+        "description":"Exude elegance and sophistication in this Lavender Pearl Embellished Lehenga with Off-Shoulder Draped Cape. The soft lavender hue, paired with intricate pearl embellishments, creates a dreamy and luxurious look. The off-shoulder draped cape adds a modern twist, blending classic charm with contemporary flair, making it the perfect choice for a stunning wedding or special occasion ensemble.",
+        "category": "Sahiba Exclusives",
+        "image": "https://i.pinimg.com/736x/91/c3/4d/91c34d092a3d77a4ad9bef81cc0f7cc3.jpg",
+        "rating": { "rate": 3.6, "count": 145 }
+    },
+    {
+        "key": 32,
+        "title": "Organza Cotton blend",
+        "price": 12.99,
+        "description": "This white and red cotton-blended organza kurthi set combines comfort with elegance. The airy, soft organza fabric gives it a lightweight and breathable feel, while the red and white color contrast adds a vibrant touch. Perfect for casual gatherings or festive occasions, this set offers a graceful yet contemporary look with its flattering fit and delicate detailing.",
+        "category": "Sahiba Exclusives",
+        "image": "https://i.pinimg.com/736x/33/2e/8b/332e8bd021fb240e8d6c12303c46e194.jpg",
+        "rating": { "rate": 3.6, "count": 145 }
+    },
+    {
+        "key": 33,
+        "title": "Telangana Wedding attire",
+        "price": 12.99,
+        "description": "The Telangana bridal look features a vibrant Kanchipuram or Pochampally saree with intricate zari work, typically in rich hues like red or maroon. Paired with traditional gold jewelry, including long necklaces, bangles, and jhumkas, the bride radiates elegance.",
+        "category": "Sahiba Exclusives",
+        "image": "https://i.pinimg.com/736x/e3/00/76/e300765e61cc4d2d94d9cc126ca294cc.jpg",
+        "rating": { "rate": 3.6, "count": 145 }
+    },
+    {
+        "key": 34,
+        "title": "Off The Shoulder Beading Sequin Tulle Ruffles Wedding Dress",
+        "price": 12.99,
+        "description":"This Off The Shoulder Beading Sequin Tulle Ruffles Wedding Dress exudes timeless elegance and romance. Featuring delicate off-shoulder straps, sparkling beadwork, and shimmering sequins, it gracefully drapes with layers of soft tulle, creating a magical, ethereal effect. The cascading ruffles add volume and sophistication, making it the perfect choice for brides who want to make a statement on their special day.",
+        "category": "Sahiba Exclusives",
+        "image": "https://i.pinimg.com/736x/1d/db/81/1ddb8190a804b529ba4a4cb4b218ad34.jpg",
+        "rating": { "rate": 3.6, "count": 145 }
+    },
+    {
+        "key": 35,
+        "title": "Hande made designer lehanga",
+        "price": 12.99,
+        "description": "This handmade peacock designer lehenga is a stunning blend of traditional artistry and modern design. Adorned with intricate peacock motifs and vibrant embroidery, it showcases a rich color palette that evokes the grandeur of royal attire. The fine craftsmanship and attention to detail make it a perfect choice for weddings or special occasions, ensuring you stand out with an elegant, regal look.",
+        "category": "Sahiba Exclusives",
+        "image": "https://i.pinimg.com/736x/17/6a/31/176a31c38ae626a25fa4fc51ad7fbb43.jpg",
+        "rating": { "rate": 3.6, "count": 145 }
+    },
+    {
+        "key": 36,
+        "title": "Maharashtrian attire",
+        "price": 12.99,
+        "description": "The Maharashtrian bridal attire is often crafted from silk or cotton fabrics, ensuring a rich, luxurious feel. The Nauvari saree is typically woven with intricate zari work, showcasing traditional craftsmanship. These fabrics are chosen for their durability, comfort, and timeless appeal, making them perfect for a wedding.",
+        "category": "Sahiba Exclusives",
+        "image": "https://i.pinimg.com/736x/e6/8a/82/e68a82be1d1eb037d8d0a9fe51c26548.jpg",
         "rating": { "rate": 3.6, "count": 145 }
     }]

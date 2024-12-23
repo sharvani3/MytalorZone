@@ -1,8 +1,11 @@
-@media only screen and (min-width:800px){
-    .carousel-inner{
-        height: 50vh;
+@media only screen and (min-width: 500px) {
+    .carousel-inner {
+        height: 100vh;  /* Adjust height to full viewport height */
     }
-    .carousel-img{
-        height: 50vh;
+
+    .carousel-img {
+        width: 100%;  /* Ensure the image takes up the full width */
+        height: 100vh;  /* Set image height to 100% of viewport height */
+        object-fit: cover;  /* Ensure the image covers the area without stretching */
     }
 }
