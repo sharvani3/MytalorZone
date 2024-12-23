@@ -1,7 +1,7 @@
 {
-  "name": "humari-dukan-server",
+  "name": "mytalorzone",
   "version": "0.1.0",
-  "description": "this is server file of humri dukan",
+  "description": "this is server file of mytalorzone",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
